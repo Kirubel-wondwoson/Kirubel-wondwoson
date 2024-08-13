@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kirubel Wondwoson
+- 👋 Hi there, I’m Kirubel Wondwoson
 - 👀 I'm passionate about crafting digital experiences.
 - 🌱 Currently 4th Software engineering student. 
 - 💞️ Looking to collaborate on MERN stack development projects
