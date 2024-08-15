@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Kirubel Wondwoson
 - 👀 I'm passionate about crafting digital experiences.
 - 🌱 Currently 4th year Software engineering student. 
-- 💞️ Looking to collaborate on MERN stack development projects
+- 💞️ Looking to collaborate on MERN projects
 - 📫 Reach me @Kirubelwondwoson635@gamil.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
