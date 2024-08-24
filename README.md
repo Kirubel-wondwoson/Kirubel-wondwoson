@@ -1,5 +1,4 @@
-![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/01f66228-d75b-4cda-a4c8-2f54dd2f46b0)
-
+![MasterHead](https://github.com/user-attachments/assets/01f66228-d75b-4cda-a4c8-2f54dd2f46b0)
 <h1 align="center">Hi 👋, I'm Kirubel Wondwoson</h1>
 <h3 align="center">A passionate MERN Stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
