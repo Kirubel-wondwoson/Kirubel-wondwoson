@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/01f66228-d75b-4cda-a4c8-2f54dd2f46b0)
 <h1 align="center">Hi 👋, I'm Kirubel Wondwoson</h1>
-<h3 align="center">A passionate MERN Stack developer from Ethiopia</h3>
+<h3 align="center">MERN Stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubel-wondwoson&label=Profile%20views&color=0e75b6&style=flat" alt="kirubel-wondwoson" /> </p>
