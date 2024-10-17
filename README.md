@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubel-wondwoson&label=Profile%20views&color=0e75b6&style=flat" alt="kirubel-wondwoson" /> </p>
 
-- 📫 How to reach me **kirubelwondwoson635@gmail.com**
+- 📫 Get in touch **kirubelwondwoson635@gmail.com**
 
 <p align="left">
 </p>
