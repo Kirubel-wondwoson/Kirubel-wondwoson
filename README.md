@@ -1,11 +1,11 @@
-![MasterHead](https://github.com/user-attachments/assets/01f66228-d75b-4cda-a4c8-2f54dd2f46b0)
-
 <h1 align="center">Hi 👋, I'm Kirubel</h1>
 <h3 align="center">A Backend Developer & SWEG Student from Ethiopia</h3>
 
+![MasterHead](https://github.com/user-attachments/assets/01f66228-d75b-4cda-a4c8-2f54dd2f46b0)
+
 ---
 
-- 🌱 **Currently Learning**: Advanced Backend Development and Software Engineering Principles.  
+- 🌱 **Currently Learning**: Advanced Backend Development and AWS.  
 - 📫 **Reach me at**: [kirubelwondwoson635@gmail.com](mailto:kirubelwondwoson635@gmail.com)  
 - ⚡ **Fun Fact**: I enjoy solving challenging problems and exploring new technologies.  
 
@@ -41,8 +41,6 @@
 
 ---
 
-
-### 🌟 Featured Work
 ![Feature GIF](https://github.com/user-attachments/assets/ef215cb8-1c55-4ea7-989b-eb9a73a541c8)
 
 ---
