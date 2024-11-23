@@ -51,5 +51,3 @@
 ---
 
 ![Feature GIF](https://github.com/user-attachments/assets/ef215cb8-1c55-4ea7-989b-eb9a73a541c8)
-
----  
