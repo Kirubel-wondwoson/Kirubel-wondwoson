@@ -3,8 +3,6 @@
 
 ![MasterHead](https://github.com/user-attachments/assets/01f66228-d75b-4cda-a4c8-2f54dd2f46b0)
 
-
----
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/kirubel7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,9 +12,11 @@
   </a>
 </p>
 
-- 🌱 **Currently Learning**: Advanced Backend Development and AWS.  
-- 📫 **Reach me at**: [kirubelwondwoson635@gmail.com](mailto:kirubelwondwoson635@gmail.com)  
-- ⚡ **Fun Fact**: I enjoy solving challenging problems and exploring new technologies.  
+### 💡 About Me  
+• 🌱 **Currently Learning**: Advanced Backend Development and AWS.  
+• 🔧 **Currently Working On**: Building scalable backend systems and APIs.  
+• 🖥️ **Interests**: API development, database designing, and cloud computing.  
+• 📫 **Reach me at**: [kirubelwondwoson635@gmail.com](mailto:kirubelwondwoson635@gmail.com)  
 
 ---
 
@@ -52,7 +52,4 @@
 
 ![Feature GIF](https://github.com/user-attachments/assets/ef215cb8-1c55-4ea7-989b-eb9a73a541c8)
 
----
-
-### 💡 About Me  
-I'm passionate about building efficient backend systems and exploring full-stack solutions to solve real-world problems. Always eager to learn and grow! 🚀  
+---  
