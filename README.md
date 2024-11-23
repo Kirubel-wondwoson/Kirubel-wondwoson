@@ -6,10 +6,10 @@
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/kirubel7/" target="_blank">
+  <a href="https://www.linkedin.com/in/kirubel7/" target="_blank" style="margin-right: 10px">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://kirubel-blog.vercel.app/" target="_blank">
+  <a href="https://kirubel-blog.vercel.app/" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog">
   </a>
 </p>
