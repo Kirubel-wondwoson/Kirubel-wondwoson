@@ -13,7 +13,7 @@
 </p>
 
 ### 💡 About Me  
-• 🌱 **Currently Learning**: Advanced Backend Development and AWS.  
+I am Kirubel, a backend developer and Currently diving deeper into AWS Cloud Computing.
 • 🔧 **Currently Working On**: Building scalable backend systems and APIs.  
 • 🖥️ **Interests**: API development, database designing, and cloud computing.  
 • 📫 **Reach me at**: [kirubelwondwoson635@gmail.com](mailto:kirubelwondwoson635@gmail.com)  
