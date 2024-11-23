@@ -35,13 +35,13 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
+  <!-- Display the general GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=kirubel-wondwoson&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  
+  <!-- Display the GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirubel-wondwoson&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirubel-wondwoson&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
-</p>
 
 ---
 
