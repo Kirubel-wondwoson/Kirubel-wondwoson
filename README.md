@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Kirubel</h1>
 <h3 align="center">A Backend Developer & SWEG Student from Ethiopia</h3>
 
-<img align="right" alt="Coding Animation" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ---
 
 - 🌱 **Currently Learning**: Advanced Backend Development and Software Engineering Principles.  
