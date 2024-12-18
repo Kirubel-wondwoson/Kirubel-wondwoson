@@ -44,8 +44,7 @@ I am Kirubel, a backend developer and Currently diving deeper into AWS Cloud Com
 
 ### 📊 GitHub Stats  
 <p align="center">
-  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirubel-wondwoson&theme=radical" alt="GitHub Streak" width="45%" height="150">](https://github-readme-streak-stats.herokuapp.com/?user=kirubel-wondwoson&theme=radical&cache_seconds=86400
-)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirubel-wondwoson&theme=radical" alt="GitHub Streak" width="45%" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirubel-wondwoson&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="45%" height="150">
 </p>
 
