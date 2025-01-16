@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirubel</h1>
-<h3 align="center">A Backend Developer & SWEG Student from Ethiopia</h3>
+<h3 align="center">A Backend Developer & SWE Student from Ethiopia</h3>
 
 ![MasterHead](https://github.com/user-attachments/assets/01f66228-d75b-4cda-a4c8-2f54dd2f46b0)
 
